@@ -1,4 +1,4 @@
-First JavaScript project I build from scratch. Check out the live preview [**here**](https://rock-paper-scissors-by-al.netlify.app/#).
+First JavaScript project I build from scratch. Check out the live preview [**here**](https://alpalma95.github.io/rockPaperScissors/).
 
 Let's be honest: this code is dirtier than the room of a college student. I built this while taking my very first JavaScript course. I jumped into an empty VSCode screen and ended up with this. Of course, way before I knew that we could create variables so we don't have to repeat `document.querySelector('..')` all along the document. I also was kind of scared of expressing functions to reuse them instead of repeating so many lines.
 
