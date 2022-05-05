@@ -108,12 +108,3 @@ document.querySelector("#scissors").addEventListener("click", function () {
   checkWinner();
   checkResult();
 });
-
-// add modal for winner
-/*if round = 5 && humanScore > computerScore = you win. Case contrary computer win. Case tie, no winner repeat battle
-// complex scenario: taking round into consideration for result
- round, user, comp:
-if round = 5 && comp > human = comp win
-if round = 4 && comp > human && human === comp -2 = comp win
-if round = 3 && comp > human && human === comp -3 = comp win
-*/
